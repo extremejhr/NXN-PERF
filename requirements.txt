@@ -24,7 +24,7 @@ MarkupSafe==1.1.1
 mkl-fft==1.0.15
 mkl-random==1.1.0
 mkl-service==2.3.0
-numpy==1.16.5
+numpy==1.22.0
 pandas==1.0.1
 peewee==3.13.1
 plotly==4.5.2
